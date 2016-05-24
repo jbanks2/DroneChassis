@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="chassisCad">
+  <layers>
+    <layer name="Default" color="127,255,0" visible="false">
+      <ModificationCount>2</ModificationCount>
+      <objects>
+        <circle id="1" d="300">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="2">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-175,0,0</p>
+            <p>175,0,0</p>
+          </pts>
+        </pline>
+        <pline id="3">
+          <ModificationCount>73</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-87.5,151.554445662277,0</p>
+            <p>87.5,-151.554445662277,0</p>
+          </pts>
+        </pline>
+        <pline id="4">
+          <ModificationCount>150</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-87.5,-151.554445662277,0</p>
+            <p>87.5,151.554445662277,0</p>
+          </pts>
+        </pline>
+        <pline id="5" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-150,0,0</p>
+            <p>-75,-130,0</p>
+            <p>75,-130,0</p>
+            <p>150,0,0</p>
+            <p>75,130,0</p>
+            <p>-75,130,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+    <layer name="Lower" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <rect id="8" Closed="true" p="-3.17500000000001,-16.75,0" w="6.3499999999999943" h="33.5">
+          <ModificationCount>70</ModificationCount>
+          <mat m="1 0 0 0 0 1 0 0 0 0 1 0 142 0 0 1" />
+          <pts>
+            <p>-3.17500000000001,-16.75,0</p>
+            <p>3.17499999999998,-16.75,0</p>
+            <p>3.17499999999998,16.75,0</p>
+            <p>-3.17500000000001,16.75,0</p>
+          </pts>
+        </rect>
+        <pline id="37" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-89.0754474858899,-121.698263655825,0</p>
+            <p b="0.13173400036909355">-60.7785194144412,-138.047595397763,0</p>
+            <p>-59.2776869289455,-138.45,0</p>
+            <p b="0.13165249758739522">59.4337181147956,-138.45,0</p>
+            <p>60.9337181147956,-138.048076211353,0</p>
+            <p b="0.13173400036909394">88.9862249945459,-121.851953812886,0</p>
+            <p>90.0847817526917,-120.753044962001,0</p>
+            <p b="0.13165249758739625">149.540479739795,-17.696501784355,0</p>
+            <p>149.941922827614,-16.1963730635037,0</p>
+            <p b="0.13148949718056527">149.931536073985,16.2162994905578,0</p>
+            <p>149.530092986167,17.714505490644,0</p>
+            <p b="0.13165249758739581">90.17317175854,120.599835618531,0</p>
+            <p>89.0754474858898,121.698263655825,0</p>
+            <p b="0.13173400036909352">60.7785194144412,138.047595397763,0</p>
+            <p>59.2776869289456,138.45,0</p>
+            <p b="0.13165249758739578">-59.4337181147957,138.45,0</p>
+            <p>-60.9337181147957,138.048076211353,0</p>
+            <p b="0.13173400036909394">-88.9862249945459,121.851953812886,0</p>
+            <p>-90.0847817526917,120.753044962001,0</p>
+            <p b="0.13165249758739592">-149.540479739795,17.696501784355,0</p>
+            <p>-149.941922827614,16.1963730635038,0</p>
+            <p b="0.1314894971805656">-149.931536073985,-16.2162994905578,0</p>
+            <p>-149.530092986167,-17.714505490644,0</p>
+            <p b="0.13165249758739583">-90.17317175854,-120.599835618531,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Lower</ActiveLayer>
+</CADFile>
