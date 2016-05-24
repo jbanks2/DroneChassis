@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Untitled">
+  <layers>
+    <layer name="Default" color="139,0,0">
+      <mat />
+      <objects>
+        <circle id="4" d="300">
+          <mat />
+        </circle>
+        <line id="5">
+          <mat />
+          <pts>
+            <p>-106.249993667006,-184.03040766716</p>
+            <p>106.249993667006,184.03040766716</p>
+          </pts>
+        </line>
+        <line id="6">
+          <mat />
+          <pts>
+            <p>-212.50000348852,6.97704095387053E-06</p>
+            <p>212.500016279762,6.97704095387053E-06</p>
+          </pts>
+        </line>
+        <line id="7">
+          <mat />
+          <pts>
+            <p>106.250007118671,-184.030400401557</p>
+            <p>-106.250037981585,184.030392994629</p>
+          </pts>
+        </line>
+        <pline id="9">
+          <mat />
+          <pts>
+            <p>-150,0,0</p>
+            <p>-75,130,0</p>
+            <p>75,130,0</p>
+            <p>150,0,0</p>
+            <p>75,-130,0</p>
+            <p>-75,-130,0</p>
+            <p>-150,0,0</p>
+          </pts>
+        </pline>
+        <pline id="10">
+          <mat />
+          <pts>
+            <p>-150,150,0</p>
+            <p>150,-150,0</p>
+            <p>150,150,0</p>
+            <p>-150,-150,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <SplineCurveSteps>12</SplineCurveSteps>
+    <TextCurveSteps>5</TextCurveSteps>
+  </MachiningOptions>
+  <machineops />
+  <ActiveLayer>Default</ActiveLayer>
+</CADFile>
