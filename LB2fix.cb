@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="LB2fix">
+  <layers>
+    <layer name="Default" color="127,255,0" visible="false">
+      <ModificationCount>9</ModificationCount>
+      <objects>
+        <rect id="3" Closed="true" p="69,-21,0" w="40" h="42">
+          <ModificationCount>280</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>69,-21,0</p>
+            <p>109,-21,0</p>
+            <p>109,21,0</p>
+            <p>69,21,0</p>
+          </pts>
+        </rect>
+        <rect id="4" Closed="true" p="-58,-25,0" w="50" h="50">
+          <ModificationCount>172</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-58,-25,0</p>
+            <p>-8,-25,0</p>
+            <p>-8,25,0</p>
+            <p>-58,25,0</p>
+          </pts>
+        </rect>
+        <rect id="38" Closed="true" p="-39,-22.5,0" w="45" h="45">
+          <ModificationCount>290</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-39,-22.5,0</p>
+            <p>6,-22.5,0</p>
+            <p>6,22.5,0</p>
+            <p>-39,22.5,0</p>
+          </pts>
+        </rect>
+        <rect id="46" Closed="true" p="-32,-16.5,0" w="61" h="33">
+          <ModificationCount>519</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-32,-16.5,0</p>
+            <p>29,-16.5,0</p>
+            <p>29,16.5,0</p>
+            <p>-32,16.5,0</p>
+          </pts>
+        </rect>
+        <rect id="132" Closed="true" p="-63,-30,0" w="10" h="60">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-63,-30,0</p>
+            <p>-53,-30,0</p>
+            <p>-53,30,0</p>
+            <p>-63,30,0</p>
+          </pts>
+        </rect>
+        <rect id="133" Closed="true" p="-41,-30,0" w="10" h="60">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-41,-30,0</p>
+            <p>-31,-30,0</p>
+            <p>-31,30,0</p>
+            <p>-41,30,0</p>
+          </pts>
+        </rect>
+        <rect id="134" Closed="true" p="4,-31,0" w="10" h="60">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>4,-31,0</p>
+            <p>14,-31,0</p>
+            <p>14,29,0</p>
+            <p>4,29,0</p>
+          </pts>
+        </rect>
+        <pline id="139" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.5773502691896254">-28.197224362268,-22.5,0</p>
+            <p b="0.57735026918962551">-39.901387818866,-15.7425980776938,0</p>
+            <p b="0.57735026918962573">-39.901387818866,-29.2574019223062,0</p>
+          </pts>
+        </pline>
+        <pline id="140" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">-29,-16.5,0</p>
+            <p b="0.57735026918962584">-39.5,-10.4378221735089,0</p>
+            <p b="0.57735026918962573">-39.5,-22.5621778264911,0</p>
+          </pts>
+        </pline>
+        <pline id="141" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">16.5,-22.5,0</p>
+            <p b="0.57735026918962551">5.25,-16.0048094716167,0</p>
+            <p b="0.57735026918962573">5.25,-28.9951905283833,0</p>
+          </pts>
+        </pline>
+        <pline id="142" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962551">-1.77635683940025E-15,-25,0</p>
+            <p b="0.57735026918962551">-12,-18.0717967697245,0</p>
+            <p b="0.57735026918962573">-12,-31.9282032302755,0</p>
+          </pts>
+        </pline>
+        <pline id="143" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.5773502691896254">-28.197224362268,22.5,0</p>
+            <p b="0.57735026918962551">-39.901387818866,29.2574019223062,0</p>
+            <p b="0.57735026918962573">-39.901387818866,15.7425980776938,0</p>
+          </pts>
+        </pline>
+        <pline id="144" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962551">-1.77635683940025E-15,25,0</p>
+            <p b="0.57735026918962551">-12,31.9282032302755,0</p>
+            <p b="0.57735026918962573">-12,18.0717967697245,0</p>
+          </pts>
+        </pline>
+        <pline id="145" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962551">16.802775637732,22.5,0</p>
+            <p b="0.57735026918962551">5.098612181134,29.2574019223062,0</p>
+            <p b="0.57735026918962551">5.098612181134,15.7425980776938,0</p>
+          </pts>
+        </pline>
+        <pline id="146" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">-50,25,0</p>
+            <p b="0.57735026918962551">-62,31.9282032302755,0</p>
+            <p b="0.57735026918962551">-62,18.0717967697245,0</p>
+          </pts>
+        </pline>
+        <pline id="147" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">-50,-25,0</p>
+            <p b="0.57735026918962551">-62,-18.0717967697245,0</p>
+            <p b="0.57735026918962551">-62,-31.9282032302755,0</p>
+          </pts>
+        </pline>
+        <pline id="148" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.5773502691896254">-29,16.5,0</p>
+            <p b="0.57735026918962551">-39.5,22.5621778264911,0</p>
+            <p b="0.57735026918962573">-39.5,10.4378221735089,0</p>
+          </pts>
+        </pline>
+        <pline id="149" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.5773502691896254">32,16.5,0</p>
+            <p b="0.57735026918962551">21.5,22.5621778264911,0</p>
+            <p b="0.57735026918962573">21.5,10.4378221735089,0</p>
+          </pts>
+        </pline>
+        <pline id="150" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.57735026918962573">32,-16.5,0</p>
+            <p b="0.57735026918962584">21.5,-10.4378221735089,0</p>
+            <p b="0.57735026918962573">21.5,-22.5621778264911,0</p>
+          </pts>
+        </pline>
+        <rect id="151" Closed="true" p="69,-12.5,0" w="32" h="25">
+          <ModificationCount>48</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>69,-12.5,0</p>
+            <p>101,-12.5,0</p>
+            <p>101,12.5,0</p>
+            <p>69,12.5,0</p>
+          </pts>
+        </rect>
+        <circle id="153" c="74.5,8,0" d="3">
+          <ModificationCount>47</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="154" c="74.5,-8,0" d="3">
+          <ModificationCount>47</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="155" c="95.5,-8,0" d="3">
+          <ModificationCount>47</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="156" c="95.5,8,0" d="3">
+          <ModificationCount>47</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="Power Core" color="0,0,255" visible="false">
+      <ModificationCount>2</ModificationCount>
+      <objects>
+        <circle id="13" c="-58,25,0" d="4">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <rect id="17" Closed="true" p="-63,-30,0" w="60" h="60" radius="5">
+          <ModificationCount>89</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-58,-30,0</p>
+            <p b="0.41421356237309503">-8,-30,0</p>
+            <p>-3,-25,0</p>
+            <p b="0.41421356237309503">-3,25,0</p>
+            <p>-8,30,0</p>
+            <p b="0.41421356237309503">-58,30,0</p>
+            <p>-63,25,0</p>
+            <p b="0.41421356237309503">-63,-25,0</p>
+          </pts>
+        </rect>
+        <circle id="14" c="-8,25,0" d="4">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="16" c="-8,-25,0" d="4">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="15" c="-58,-25,0" d="4">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="Standoff" color="255,255,255" visible="false">
+      <ModificationCount>2</ModificationCount>
+      <objects>
+        <circle id="5" c="-69,-32.5,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="6" c="-69,32.5,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="7" c="-109,21,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="8" c="-109,-21,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="9" c="69,32.5,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="10" c="69,-32.5,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="11" c="109,21,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="12" c="109,-21,0" d="9">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="128" c="-109,0,0" d="9">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="Top plate" color="255,0,0">
+      <ModificationCount>1</ModificationCount>
+      <objects>
+        <entity id="358" xsi:type="Region">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <OuterCurve Closed="true">
+            <ModificationCount>0</ModificationCount>
+            <mat m="Identity" />
+            <pts>
+              <p>33,43.5,0</p>
+              <p b="0.41421356237309503">33,54,0</p>
+              <p>27,60,0</p>
+              <p b="0.41421356237309503">-26,60,0</p>
+              <p>-32,54,0</p>
+              <p b="-0.41421356237309503">-32,43.5,0</p>
+              <p>-38,37.5,0</p>
+              <p b="0.17225308517074861">-68.6449593747625,37.5,0</p>
+              <p>-72.4285151253293,36.1566840006976,0</p>
+              <p b="0.47597050800551916">-111.19774589456,4.65668400069759,0</p>
+              <p>-111.19774589456,-4.65668400069759,0</p>
+              <p b="0.15422310409773862">-72.4285151253292,-36.1566840006976,0</p>
+              <p b="-0.31129820949229603">-69.0660911431018,-37.4852024221153,0</p>
+              <p b="0.33066953266920496">-63.7436114557206,-41.7352024221153,0</p>
+              <p>-58,-46,0</p>
+              <p b="-0.41421356237309503">-38,-46,0</p>
+              <p>-32,-52,0</p>
+              <p b="0.41421356237309503">-32,-54,0</p>
+              <p>-26,-60,0</p>
+              <p b="0.41421356237309503">26.5,-60,0</p>
+              <p>32.5,-54,0</p>
+              <p b="-0.41421356237309515">32.5,-43.5,0</p>
+              <p>38.5,-37.5,0</p>
+              <p b="0.17344914947250303">68.64225662116,-37.5,0</p>
+              <p>72.447403916885,-36.1390574536037,0</p>
+              <p b="0.0075679398548309648">96.9355856461746,-16.0528353241399,0</p>
+              <p b="0.47346559880509431">97.0742506707463,-15.9355412856515,0</p>
+              <p b="-0.0067156738897126171">96.0600036226577,16.9540241708999,0</p>
+              <p>95.9335767193098,17.0539824317737,0</p>
+              <p b="0.17228463400546465">72.4290167472451,36.1562202598219,0</p>
+              <p>68.6448903101365,37.5,0</p>
+              <p b="-0.41421356237309537">39,37.5,0</p>
+            </pts>
+          </OuterCurve>
+          <HoleCurves>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.53047052659232663">65.4537522266368,-8.3565008906547,0</p>
+                <p b="0.2679491924311227">58.75,-5.10288568297003,0</p>
+                <p>56.5,-9,0</p>
+                <p b="0.57735026918962573">51.5,-9,0</p>
+                <p b="0.2679491924311227">44.75,-5.10288568297003,0</p>
+                <p>42.5,-9,0</p>
+                <p b="0.57735026918962573">37.5,-9,0</p>
+                <p b="0.2679491924311227">30.75,-5.10288568297003,0</p>
+                <p>28.5,-9,0</p>
+                <p b="-0.41421356237309503">21,-9,0</p>
+                <p>16,-4,0</p>
+                <p b="-0.41421356237309503">16,4,0</p>
+                <p>21,9,0</p>
+                <p b="-0.41421356237309503">63,9,0</p>
+                <p>68,4,0</p>
+                <p b="-0.27080434199430781">68,-4,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>88,8,0</p>
+                <p b="0.45798177980305171">82,8,0</p>
+                <p b="0.083087244547515773">73.4007946355932,15.4190125735747,0</p>
+                <p>74,19,0</p>
+                <p b="0.093649851413331084">74,22,0</p>
+                <p b="0.044987644509356814">73.2415756162619,26.0137425049932,0</p>
+                <p>74.3333197027392,26.8769936023179,0</p>
+                <p b="0.21748700276354083">90.5874690585176,13.6671897576293,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>88,-8,0</p>
+                <p b="-0.45798177980305171">82,-8,0</p>
+                <p b="-0.083087244547515773">73.4007946355932,-15.4190125735747,0</p>
+                <p>74,-19,0</p>
+                <p b="-0.093649851413331084">74,-22,0</p>
+                <p b="-0.044987644509356814">73.2415756162619,-26.0137425049932,0</p>
+                <p>74.3333197027392,-26.8769936023179,0</p>
+                <p b="-0.21748700276354083">90.5874690585176,-13.6671897576293,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">34.5,-9,0</p>
+                <p b="0.57735026918962573">32.25,-7.70096189432334,0</p>
+                <p b="0.57735026918962573">32.25,-10.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">48.5,-9,0</p>
+                <p b="0.57735026918962573">46.25,-7.70096189432334,0</p>
+                <p b="0.57735026918962573">46.25,-10.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">62.5,-9,0</p>
+                <p b="0.57735026918962573">60.25,-7.70096189432334,0</p>
+                <p b="0.57735026918962573">60.25,-10.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-73,7,0</p>
+                <p b="0.016680583923340559">-87.5166852264521,7,0</p>
+                <p b="0.24293656198339247">-87.5,7.5,0</p>
+                <p>-90.6574042333913,13.614888552364,0</p>
+                <p b="0.058940104176490711">-74.334008835878,26.8776473128436,0</p>
+                <p b="0.131652497587396">-72.875,25.7883031206706,0</p>
+                <p>-69,24.75,0</p>
+                <p b="0.25049165017267183">-69,19.4833147735479,0</p>
+                <p>-73,12,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-73,-7,0</p>
+                <p b="-0.016680583923340559">-87.5166852264521,-7,0</p>
+                <p b="-0.24293656198339247">-87.5,-7.5,0</p>
+                <p>-90.6574042333913,-13.614888552364,0</p>
+                <p b="-0.058940104176490711">-74.334008835878,-26.8776473128436,0</p>
+                <p b="-0.131652497587396">-72.875,-25.7883031206706,0</p>
+                <p>-69,-24.75,0</p>
+                <p b="-0.25049165017267183">-69,-19.4833147735479,0</p>
+                <p>-73,-12,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67.25,-32.5,0</p>
+                <p b="0.57735026918962573">-69.875,-30.9844555433772,0</p>
+                <p b="0.57735026918962573">-69.875,-34.0155444566228,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67.25,32.5,0</p>
+                <p b="0.57735026918962573">-69.875,34.0155444566228,0</p>
+                <p b="0.57735026918962573">-69.875,30.9844555433772,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">70.75,32.5,0</p>
+                <p b="0.57735026918962573">68.125,34.0155444566228,0</p>
+                <p b="0.57735026918962573">68.125,30.9844555433772,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">70.75,-32.5,0</p>
+                <p b="0.57735026918962573">68.125,-30.9844555433772,0</p>
+                <p b="0.57735026918962573">68.125,-34.0155444566228,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107.25,0,0</p>
+                <p b="0.57735026918962573">-109.875,1.51554445662277,0</p>
+                <p b="0.57735026918962573">-109.875,-1.51554445662277,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-91.5,7.5,0</p>
+                <p b="0.57735026918962573">-96.75,10.5310889132455,0</p>
+                <p b="0.57735026918962573">-96.75,4.46891108675447,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-91.5,-7.5,0</p>
+                <p b="0.57735026918962573">-96.75,-4.46891108675446,0</p>
+                <p b="0.57735026918962573">-96.75,-10.5310889132455,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-73.5,0,0</p>
+                <p b="0.57735026918962573">-78.75,3.03108891324554,0</p>
+                <p b="0.57735026918962573">-78.75,-3.03108891324553,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-64,-17,0</p>
+                <p b="0.41421356237309503">-47,-17,0</p>
+                <p>-42,-12,0</p>
+                <p b="0.41421356237309503">-42,12,0</p>
+                <p>-47,17,0</p>
+                <p b="0.41421356237309503">-64,17,0</p>
+                <p>-69,12,0</p>
+                <p b="0.41421356237309503">-69,-12,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-25,-17,0</p>
+                <p b="0.41421356237309503">2,-17,0</p>
+                <p>7,-12,0</p>
+                <p b="0.41421356237309503">7,12,0</p>
+                <p>2,17,0</p>
+                <p b="0.41421356237309503">-25,17,0</p>
+                <p>-30,12,0</p>
+                <p b="0.41421356237309503">-30,-12,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>37,14,0</p>
+                <p b="0.41421356237309503">63,14,0</p>
+                <p>68,19,0</p>
+                <p b="0.41421356237309503">68,22,0</p>
+                <p>63,27,0</p>
+                <p b="0.41421356237309503">37,27,0</p>
+                <p>32,22,0</p>
+                <p b="0.41421356237309503">32,19,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>37,-27,0</p>
+                <p b="0.41421356237309503">63,-27,0</p>
+                <p>68,-22,0</p>
+                <p b="0.41421356237309503">68,-19,0</p>
+                <p>63,-14,0</p>
+                <p b="0.41421356237309503">37,-14,0</p>
+                <p>32,-19,0</p>
+                <p b="0.41421356237309503">32,-22,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">76,8,0</p>
+                <p b="0.57735026918962573">73.75,9.29903810567666,0</p>
+                <p b="0.57735026918962573">73.75,6.70096189432334,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">76,-8,0</p>
+                <p b="0.57735026918962573">73.75,-6.70096189432334,0</p>
+                <p b="0.57735026918962573">73.75,-9.29903810567666,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">97,-8,0</p>
+                <p b="0.57735026918962573">94.75,-6.70096189432334,0</p>
+                <p b="0.57735026918962573">94.75,-9.29903810567666,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">97,8,0</p>
+                <p b="0.57735026918962573">94.75,9.29903810567666,0</p>
+                <p b="0.57735026918962573">94.75,6.70096189432334,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.5773502691896254">30,16.5,0</p>
+                <p b="0.57735026918962529">28.5,17.3660254037844,0</p>
+                <p b="0.57735026918962573">28.5,15.6339745962156,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962529">7.80277563773199,22.5,0</p>
+                <p b="0.57735026918962551">5.098612181134,24.0612494995996,0</p>
+                <p b="0.57735026918962529">5.098612181134,20.9387505004004,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.5773502691896254">-6,25,0</p>
+                <p b="0.57735026918962551">-9.00000000000001,26.7320508075689,0</p>
+                <p b="0.57735026918962573">-9,23.2679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962551">-37.197224362268,22.5,0</p>
+                <p b="0.5773502691896244">-39.901387818866,24.0612494995996,0</p>
+                <p b="0.57735026918962584">-39.901387818866,20.9387505004004,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.5773502691896254">-31,16.5,0</p>
+                <p b="0.57735026918962529">-32.5,17.3660254037844,0</p>
+                <p b="0.5773502691896254">-32.5,15.6339745962156,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962629">-56,25,0</p>
+                <p b="0.57735026918962529">-59,26.7320508075689,0</p>
+                <p b="0.577350269189626">-59,23.2679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-31,-16.5,0</p>
+                <p b="0.57735026918962529">-32.5,-15.6339745962156,0</p>
+                <p b="0.577350269189626">-32.5,-17.3660254037844,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.5773502691896254">-6,-25,0</p>
+                <p b="0.57735026918962551">-9.00000000000001,-23.2679491924311,0</p>
+                <p b="0.57735026918962573">-9,-26.7320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">7.5,-22.5,0</p>
+                <p b="0.57735026918962584">5.25,-21.2009618943233,0</p>
+                <p b="0.57735026918962573">5.25,-23.7990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">30,-16.5,0</p>
+                <p b="0.57735026918962529">28.5,-15.6339745962156,0</p>
+                <p b="0.577350269189626">28.5,-17.3660254037844,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">13.5,5,0</p>
+                <p b="0.57735026918962573">11.25,6.29903810567666,0</p>
+                <p b="0.57735026918962573">11.25,3.70096189432334,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">13.5,-5,0</p>
+                <p b="0.57735026918962573">11.25,-3.70096189432334,0</p>
+                <p b="0.57735026918962573">11.25,-6.29903810567666,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-36.5,-5,0</p>
+                <p b="0.57735026918962573">-38.75,-3.70096189432334,0</p>
+                <p b="0.57735026918962573">-38.75,-6.29903810567666,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-32.5,5,0</p>
+                <p b="0.57735026918962573">-34.75,6.29903810567666,0</p>
+                <p b="0.57735026918962573">-34.75,3.70096189432334,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-46.5,21,0</p>
+                <p b="0.57735026918962573">-48.75,22.2990381056767,0</p>
+                <p b="0.57735026918962573">-48.75,19.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-24.5,21,0</p>
+                <p b="0.57735026918962573">-26.75,22.2990381056767,0</p>
+                <p b="0.57735026918962573">-26.75,19.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-48.5,33,0</p>
+                <p b="0.57735026918962573">-50.75,34.2990381056767,0</p>
+                <p b="0.57735026918962573">-50.75,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-28.5,33,0</p>
+                <p b="0.57735026918962573">-30.75,34.2990381056767,0</p>
+                <p b="0.57735026918962573">-30.75,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-8.5,33,0</p>
+                <p b="0.57735026918962573">-10.75,34.2990381056767,0</p>
+                <p b="0.57735026918962573">-10.75,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">11.5,33,0</p>
+                <p b="0.57735026918962573">9.25,34.2990381056767,0</p>
+                <p b="0.57735026918962573">9.25,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">31.5,33,0</p>
+                <p b="0.57735026918962573">29.25,34.2990381056767,0</p>
+                <p b="0.57735026918962573">29.25,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">51.5,33,0</p>
+                <p b="0.57735026918962573">49.25,34.2990381056767,0</p>
+                <p b="0.57735026918962573">49.25,31.7009618943233,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">11.5,-33,0</p>
+                <p b="0.57735026918962573">9.25,-31.7009618943233,0</p>
+                <p b="0.57735026918962573">9.25,-34.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">31.5,-33,0</p>
+                <p b="0.57735026918962573">29.25,-31.7009618943233,0</p>
+                <p b="0.57735026918962573">29.25,-34.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962629">-56,-25,0</p>
+                <p b="0.57735026918962529">-59,-23.2679491924311,0</p>
+                <p b="0.577350269189626">-59,-26.7320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-51.5857864376269,-41,0</p>
+                <p b="0.57735026918962573">-53.7071067811865,-39.7752551286084,0</p>
+                <p b="0.57735026918962573">-53.7071067811865,-42.2247448713916,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-46.5,-21,0</p>
+                <p b="0.57735026918962573">-48.75,-19.7009618943233,0</p>
+                <p b="0.57735026918962573">-48.75,-22.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962551">-37.197224362268,-22.5,0</p>
+                <p b="0.5773502691896244">-39.901387818866,-20.9387505004004,0</p>
+                <p b="0.57735026918962584">-39.901387818866,-24.0612494995996,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-24.5,-21,0</p>
+                <p b="0.57735026918962573">-26.75,-19.7009618943233,0</p>
+                <p b="0.57735026918962573">-26.75,-22.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-8.5,-33,0</p>
+                <p b="0.57735026918962573">-10.75,-31.7009618943233,0</p>
+                <p b="0.57735026918962573">-10.75,-34.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-29.5857864376269,-41,0</p>
+                <p b="0.57735026918962573">-31.7071067811865,-39.7752551286084,0</p>
+                <p b="0.57735026918962573">-31.7071067811866,-42.2247448713916,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">51.5,-33,0</p>
+                <p b="0.57735026918962573">49.25,-31.7009618943233,0</p>
+                <p b="0.57735026918962573">49.25,-34.2990381056767,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">28.5,48,0</p>
+                <p b="0.57735026918962573">17.25,54.4951905283833,0</p>
+                <p b="0.57735026918962573">17.25,41.5048094716167,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-13.5,48,0</p>
+                <p b="0.57735026918962573">-24.75,54.4951905283833,0</p>
+                <p b="0.57735026918962573">-24.75,41.5048094716167,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">7.50000000000001,48,0</p>
+                <p b="0.57735026918962573">-3.74999999999999,54.4951905283833,0</p>
+                <p b="0.57735026918962573">-3.75,41.5048094716167,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">26.7082039324994,27,0</p>
+                <p b="0.57735026918962573">16.6458980337503,32.8094750193111,0</p>
+                <p b="0.57735026918962573">16.6458980337503,21.1905249806889,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">26.7082039324994,-27,0</p>
+                <p b="0.57735026918962573">16.6458980337503,-21.1905249806889,0</p>
+                <p b="0.57735026918962573">16.6458980337503,-32.8094750193111,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-50,-36,0</p>
+                <p b="0.41421356237309503">-18,-36,0</p>
+                <p>-15,-33,0</p>
+                <p b="0.41421356237309503">-15,-31,0</p>
+                <p>-18,-28,0</p>
+                <p b="0.41421356237309503">-50,-28,0</p>
+                <p>-53,-31,0</p>
+                <p b="0.41421356237309503">-53,-33,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-13.5,-48,0</p>
+                <p b="0.57735026918962573">-24.75,-41.5048094716167,0</p>
+                <p b="0.57735026918962573">-24.75,-54.4951905283833,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">7.50000000000001,-48,0</p>
+                <p b="0.57735026918962573">-3.74999999999999,-41.5048094716167,0</p>
+                <p b="0.57735026918962573">-3.75,-54.4951905283833,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>0</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">28.5,-48,0</p>
+                <p b="0.57735026918962573">17.25,-41.5048094716167,0</p>
+                <p b="0.57735026918962573">17.25,-54.4951905283833,0</p>
+              </pts>
+            </Polyline>
+          </HoleCurves>
+        </entity>
+      </objects>
+    </layer>
+    <layer name="Adapter plate holes" color="127,255,0" visible="false">
+      <ModificationCount>1</ModificationCount>
+      <objects>
+        <circle id="28" c="-69,-32.5,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="29" c="109,-21,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="30" c="-69,32.5,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="31" c="-109,21,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="32" c="-109,-21,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="33" c="69,32.5,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="34" c="69,-32.5,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="35" c="109,21,0" d="9">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="PixHawk" color="255,0,255">
+      <ModificationCount>5</ModificationCount>
+      <objects>
+        <circle id="53" c="-39,22.5,0" d="3.6055512754639891">
+          <ModificationCount>303</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="54" c="6,22.5,0" d="3.6055512754639891">
+          <ModificationCount>303</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="55" c="-39,-22.5,0" d="3.6055512754639891">
+          <ModificationCount>303</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="56" c="6,-22.5,0" d="3">
+          <ModificationCount>303</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <rect id="57" Closed="true" p="-66.5,-35,0" w="100" h="70">
+          <ModificationCount>350</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-66.5,-35,0</p>
+            <p>33.5,-35,0</p>
+            <p>33.5,35,0</p>
+            <p>-66.5,35,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+    <layer name="Camera" color="192,192,192">
+      <ModificationCount>5</ModificationCount>
+      <objects>
+        <rect id="52" Closed="true" p="-112,-15,0" w="41" h="30">
+          <ModificationCount>212</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-112,-15,0</p>
+            <p>-71,-15,0</p>
+            <p>-71,15,0</p>
+            <p>-112,15,0</p>
+          </pts>
+        </rect>
+        <circle id="40" c="-95,-7.5,0" d="7">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="41" c="-77,0,0" d="7">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="42" c="-95,7.5,0" d="7">
+          <ModificationCount>88</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="Transmitter" color="128,128,128">
+      <ModificationCount>3</ModificationCount>
+      <objects>
+        <rect id="51" Closed="true" p="-38,-18.25,0" w="65" h="36.5">
+          <ModificationCount>308</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-38,-18.25,0</p>
+            <p>27,-18.25,0</p>
+            <p>27,18.25,0</p>
+            <p>-38,18.25,0</p>
+          </pts>
+        </rect>
+        <circle id="47" c="-36,-16.5,0" d="2">
+          <ModificationCount>304</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="48" c="-36,16.5,0" d="2">
+          <ModificationCount>304</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="49" c="25,16.5,0" d="2">
+          <ModificationCount>304</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="50" c="25,-16.5,0" d="2">
+          <ModificationCount>304</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="CF Plate After" color="127,255,0">
+      <ModificationCount>3</ModificationCount>
+      <objects>
+        <entity id="112" xsi:type="Region">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+          <OuterCurve Closed="true">
+            <ModificationCount>2</ModificationCount>
+            <mat m="Identity" />
+            <pts>
+              <p>70,37,0</p>
+              <p>77,35,0</p>
+              <p>77,27,0</p>
+              <p>-69,27,0</p>
+              <p>-103,17.4085980067211,0</p>
+              <p>-103,-17.4085980067211,0</p>
+              <p>-69,-27,0</p>
+              <p>77,-27,0</p>
+              <p>77,-35,0</p>
+              <p>70,-37,0</p>
+              <p>-70,-37,0</p>
+              <p>-113,-25,0</p>
+              <p>-113,25,0</p>
+              <p>-70,37,0</p>
+            </pts>
+          </OuterCurve>
+          <HoleCurves>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107,21,0</p>
+                <p b="0.57735026918962573">-110,22.7320508075689,0</p>
+                <p b="0.57735026918962573">-110,19.2679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107,-21,0</p>
+                <p b="0.57735026918962573">-110,-19.2679491924311,0</p>
+                <p b="0.57735026918962573">-110,-22.7320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67,-32.5,0</p>
+                <p b="0.57735026918962573">-70,-30.7679491924311,0</p>
+                <p b="0.57735026918962573">-70,-34.2320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">71,-32.5,0</p>
+                <p b="0.57735026918962573">68,-30.7679491924311,0</p>
+                <p b="0.57735026918962573">68,-34.2320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">71,32.5,0</p>
+                <p b="0.57735026918962573">68,34.2320508075689,0</p>
+                <p b="0.57735026918962573">68,30.7679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67,32.5,0</p>
+                <p b="0.57735026918962573">-70,34.2320508075689,0</p>
+                <p b="0.57735026918962573">-70,30.7679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107.25,0,0</p>
+                <p b="0.57735026918962573">-109.875,1.51554445662277,0</p>
+                <p b="0.57735026918962573">-109.875,-1.51554445662277,0</p>
+              </pts>
+            </Polyline>
+          </HoleCurves>
+        </entity>
+        <circle id="114" d="2">
+          <ModificationCount>87</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="CF Plate Before" color="127,255,0" visible="false">
+      <ModificationCount>3</ModificationCount>
+      <objects>
+        <entity id="89" xsi:type="Region">
+          <ModificationCount>116</ModificationCount>
+          <mat m="Identity" />
+          <OuterCurve Closed="true">
+            <ModificationCount>2</ModificationCount>
+            <mat m="Identity" />
+            <pts>
+              <p>70,37,0</p>
+              <p>113,25,0</p>
+              <p>113,-26,0</p>
+              <p>70,-37,0</p>
+              <p>-70,-37,0</p>
+              <p>-113,-25,0</p>
+              <p>-113,25,0</p>
+              <p>-70,37,0</p>
+            </pts>
+          </OuterCurve>
+          <HoleCurves>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107,21,0</p>
+                <p b="0.57735026918962573">-110,22.7320508075689,0</p>
+                <p b="0.57735026918962573">-110,19.2679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-107,-21,0</p>
+                <p b="0.57735026918962573">-110,-19.2679491924311,0</p>
+                <p b="0.57735026918962573">-110,-22.7320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67,-32.5,0</p>
+                <p b="0.57735026918962573">-70,-30.7679491924311,0</p>
+                <p b="0.57735026918962573">-70,-34.2320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">71,-32.5,0</p>
+                <p b="0.57735026918962573">68,-30.7679491924311,0</p>
+                <p b="0.57735026918962573">68,-34.2320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">71,32.5,0</p>
+                <p b="0.57735026918962573">68,34.2320508075689,0</p>
+                <p b="0.57735026918962573">68,30.7679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">111,21,0</p>
+                <p b="0.57735026918962573">108,22.7320508075689,0</p>
+                <p b="0.57735026918962573">108,19.2679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">111,-21,0</p>
+                <p b="0.57735026918962573">108,-19.2679491924311,0</p>
+                <p b="0.57735026918962573">108,-22.7320508075689,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p b="0.57735026918962573">-67,32.5,0</p>
+                <p b="0.57735026918962573">-70,34.2320508075689,0</p>
+                <p b="0.57735026918962573">-70,30.7679491924311,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>-74,25.501621262535,0</p>
+                <p>-74,-25.501621262535,0</p>
+                <p>-103,-17.4085980067211,0</p>
+                <p>-103,17.4085980067211,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>74,25.501621262535,0</p>
+                <p>103,17.4085980067211,0</p>
+                <p>103,-18.2361204552688,0</p>
+                <p>74,-25.6547251064316,0</p>
+              </pts>
+            </Polyline>
+            <Polyline Closed="true">
+              <ModificationCount>2</ModificationCount>
+              <mat m="Identity" />
+              <pts>
+                <p>64,27,0</p>
+                <p>64,-27,0</p>
+                <p>-64,-27,0</p>
+                <p>-64,27,0</p>
+              </pts>
+            </Polyline>
+          </HoleCurves>
+        </entity>
+      </objects>
+    </layer>
+    <layer name="Props" color="0,128,128">
+      <ModificationCount>4</ModificationCount>
+      <objects>
+        <circle id="121" c="167,-95,0" d="178">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="123" c="0,-192,0" d="178">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="124" c="-167,-95,0" d="178">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="125" c="167,95,0" d="178">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="126" c="0,192,0" d="178">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="127" c="-167,95,0" d="178">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+    <layer name="Layer1" color="127,255,0" visible="false">
+      <ModificationCount>4</ModificationCount>
+      <objects>
+        <rect id="357" Closed="true" p="13,15,0" w="8" h="1.5">
+          <ModificationCount>127</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>13,15,0</p>
+            <p>21,15,0</p>
+            <p>21,16.5,0</p>
+            <p>13,16.5,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Layer1</ActiveLayer>
+</CADFile>
